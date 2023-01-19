@@ -2,8 +2,13 @@
 
 ## Para rodar:
 
+### navegue à pasta solutions para ver a solução do projeto:
+    
+    ```
+    cd solutions
+    ```
 
-### Abre um virtual Environment
+### Abra um virtual Environment
 ```
 python3 -m venv venv
 ```
