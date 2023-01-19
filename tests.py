@@ -3,7 +3,7 @@
 import unittest
 
 from stack import Stack, StackPopException
-from queue_1 import Queue, QueueDequeueException #Got to change the name due to the built-in module queue from pythom:.
+from queue_dequeue import Queue, QueueDequeueException #Got to change the name due to the built-in module queue from pythom:.
 
 
 class StackTestCase(unittest.TestCase):
